@@ -1,5 +1,6 @@
 """186330
-2:03:45:30"""
+2:03:45:30
+I know that this code is ugly"""
 sec = int(input())
 days = sec // (60**2*24)
 sec -= days * 60**2*24
