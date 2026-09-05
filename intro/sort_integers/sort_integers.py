@@ -14,4 +14,4 @@ largest = max(a, b, c)
 smallest = min(a, b, c)
 middle = (a + b + c) - smallest - largest
 
-print(f"{largest, middle, smallest}")
+print(f"{smallest}, {middle}, {largest}")
