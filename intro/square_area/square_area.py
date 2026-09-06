@@ -1,3 +1,3 @@
 a = float(input())
 area = a * a
-print(round(area, 3))
+print(f"{round(area, 3):.2f}")

@@ -6,7 +6,7 @@ import pytest
     [
         ("7.5\n", "56.25"),
         ("12.3\n", "151.29"),
-        ("5.0\n", "25.0"),
+        ("5.0\n", "25.00"),
     ],
 )
 def test_square_area(solution, input_params, expected_output):
